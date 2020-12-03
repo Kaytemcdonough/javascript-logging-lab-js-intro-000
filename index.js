@@ -1,2 +1,2 @@
-CONSOLE.ERROR("HALP!")
-console.log("I would be a logger")
+CONSOLE.ERROR( "HALP!" )
+console.log( "I would be a logger" )
